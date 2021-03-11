@@ -28,7 +28,7 @@ struct MonsterData
 	int monsterX;
 	int monsterY;
 	bool isAlive= true;
-};
+}; 
 
 //맵 정보
 struct MazeData
